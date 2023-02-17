@@ -1,12 +1,11 @@
+#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include <stdio.h>
 /**
- * main-variable n is positive or negative
+ * main - Entry point
  *
- * return=0
+ * Return: Always 0 (Success)
  */
-
 int main(void)
 {
 	int n;
