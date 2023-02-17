@@ -4,10 +4,10 @@
 /**
  * main-variable n is positive or negative
  *
- * return= 0
+ * return=0
  */
 
- int main(void)
+int main(void)
 {
 	int n;
 
