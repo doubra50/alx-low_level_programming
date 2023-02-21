@@ -3,7 +3,7 @@
 
 /**
  *print _putchar - check description
- *Description: a prpgram that prints _putchar
+ *Description: a program that prints _putchar
  *
  * Return: 0 - success
  */
