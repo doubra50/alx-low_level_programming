@@ -2,10 +2,11 @@
 #include "main.h"
 
 /**
+ * main - Entry point
  *print _putchar - check description
  *Description: a program that prints _putchar
- *main - okay
- * Return: 0 - success
+ *
+ * Return: 0 (success)
  */
 int main(void)
 {
